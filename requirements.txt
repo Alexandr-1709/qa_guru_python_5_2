@@ -1,2 +1,2 @@
-pytest
-selene
+pytest==7.2.2
+selene==2.0.0.b17
